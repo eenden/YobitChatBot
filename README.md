@@ -1,0 +1,1 @@
+Simple YoBit chart bot
